@@ -3,7 +3,7 @@
 🚀 Android Developer with 4+ years of experience in designing high-quality mobile applications, optimizing performance, and implementing advanced multithreading concepts. Skilled in Kotlin, Java, Jetpack Compose, and architectural patterns like MVVM and MVI.
 
 ### 🔭 I’m currently working on:
-- Developing and deploying the WMS (Where’s My Suitcase) mobile application for SP Plus at ekSource Technologies.
+- Developing and deploying the WMS (Where’s My Suitcase) mobile application.
 - Improving app performance and reducing crashes through robust optimization techniques.
 
 ### 🌱 I’m currently learning:
